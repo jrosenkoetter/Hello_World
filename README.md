@@ -13,4 +13,4 @@ Hello, I am a third year business student at Iowa.  I am also a swimmer for the 
 ## ***Places I've Lived*** ##
 - St. Louis, Missouri
 - Austin, Texas
--Iowa City, Iowa
+- Iowa City, Iowa
