@@ -3,7 +3,7 @@ Practice Repository
 
 Hello, I am a third year business student at Iowa.  I am also a swimmer for the university.
 
-## **My _Prime_ Swim Events** ##
+## **My _Primary_ Swim Events** ##
 | **Stroke**  | **Distance(yards)** |
 | :--- | :---: |
 | Backstroke | 100 |
